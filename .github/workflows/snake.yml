@@ -98,11 +98,3 @@ jobs:
 
 
 
-Once pasted, commit changes for this snake.yml file.
-
-
-
-Step 3 : Bring the YML file into Action
-
-Go to the home directory on your Profile repository. 
-Now you must see a directory ".github" and a file "README.md".
